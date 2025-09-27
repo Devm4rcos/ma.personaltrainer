@@ -9,6 +9,184 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
+        <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcos Alberto - Cartão Profissional</title>
+    <style>
+        /* Importa fontes que se assemelham ao design (Oswald e Montserrat) */
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Oswald:wght@400;700&display=swap');
+
+        /* Cores Autênticas */
+        :root {
+            --cor-preto-autentico: #1a1a1a;
+            --cor-verde-agua-autentico: #008080; /* Cor similar ao verde-água da imagem */
+            --cor-texto-claro: #ffffff;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Montserrat', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+        }
+
+        .card {
+            display: flex;
+            width: 78%;
+            max-width: 900px;
+            height: 350px; /* Altura fixa para simular o layout original */
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); /* Sombra forte */
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        /* Efeito de hover no cartão */
+        .card:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        /* --- Painel Esquerdo (Preto) --- */
+        .left-panel {
+            flex: 0 0 35%; /* Ocupa 35% da largura */
+            background-color: var(--cor-preto-autentico);
+            color: var(--cor-texto-claro);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            padding: 40px 20px;
+            text-align: center;
+            position: relative;
+        }
+
+        .logo {
+            font-family: 'Oswald', sans-serif;
+            font-size: 8em;
+            font-weight: 700;
+            line-height: 0.8;
+            letter-spacing: -5px;
+            margin-top: 20px;
+            /* Efeito CSS: Brilho sutil */
+            text-shadow: 0 0 15px rgba(255, 255, 255, 0.5); 
+            transition: text-shadow 0.5s ease;
+        }
+        
+        /* Efeito no logo ao passar o mouse */
+        .left-panel:hover .logo {
+            text-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Sombra para destacar */
+        }
+
+        .contact-info h2 {
+            font-size: 1.8em;
+            margin: 0;
+            font-weight: 700;
+        }
+
+        .contact-info p {
+            font-size: 0.9em;
+            margin: 5px 0 0 0;
+            color: #ccc;
+        }
+
+        /* --- Painel Direito (Verde-Água) --- */
+        .right-panel {
+            flex: 1; /* Ocupa o restante da largura (65%) */
+            background-color: var(--cor-verde-agua-autentico);
+            color: var(--cor-texto-claro);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            padding: 40px 20px;
+            position: relative;
+        }
+
+        .title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 3em;
+            font-weight: 400;
+            color: var(--cor-texto-claro);
+            letter-spacing: 2px;
+            margin-bottom: auto;
+            /* Efeito CSS: Borda de baixo sutil */
+            border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+            padding-bottom: 5px;
+        }
+
+        /* Simulação da Imagem do Corredor (substitua pelo seu SVG/PNG) */
+        .runner-placeholder {
+            width: 80%;
+            max-width: 400px;
+            height: 300px;
+            background-image: url('C:\Users\Miguel\Desktop\Captura de tela 2025-09-26 222026.png'); /* Imagem similar para demonstração */
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center bottom;
+            opacity: 0.8;
+            /* Efeito CSS: Deslocamento suave do background */
+            transition: background-position 1s ease-out;
+        }
+
+        .right-panel:hover .runner-placeholder {
+            background-position: center 90%; /* Desloca a imagem levemente para baixo no hover */
+        }
+        
+        /* Responsividade básica para telas menores */
+        @media (max-width: 100px) {
+            .card {
+                flex-direction: column;
+                height: auto;
+                width: 90%;
+            }
+
+            .left-panel, .right-panel {
+                flex: none;
+                padding: 30px 15px;
+            }
+
+            .logo {
+                font-size: 6em;
+            }
+
+            .title {
+                margin-top: 15px;
+                font-size: 2.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="left-panel">
+            <div class="logo">MA</div>
+            <div class="contact-info">
+                <h2>Marcos Alberto</h2>
+                <p>CREF 040029-G/MG</p>
+            </div>
+        </div>
+        
+        <div class="right-panel">
+            <div class="title">PERSONAL TRAINER</div>
+            
+            <div class="runner-placeholder"></div>
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 
