@@ -129,7 +129,7 @@
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
 
-<img src="[logo](https://github.com/user-attachments/assets/09582b1d-93a8-452d-b9d7-0f7199c72560)
+<img src="![logo](https://github.com/user-attachments/assets/09582b1d-93a8-452d-b9d7-0f7199c72560)
 " width="300" height="200">
 
 
