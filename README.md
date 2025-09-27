@@ -126,6 +126,14 @@
         <h1>Treino Personalizado</h1>
         <p style="text-align: center; color: #6c757d;">Preencha os dados abaixo e clique no botão para ser direcionado ao WhatsApp do Personal Trainer e agendar seu atendimento presencial, ou on-line!
         </p>
+
+<!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
+<img src="<img width="385" height="587" alt="Captura de tela 2025-09-26 222026" src="https://github.com/user-attachments/assets/8060d1a1-1dcd-43f9-9eca-8dcd1b216dc7" />
+" alt="LOGO MARCA">
+
+
+
+        
         <div class="form-group">
             <label for="nome">Nome Completo:</label>
             <input type="text" id="nome" required>
