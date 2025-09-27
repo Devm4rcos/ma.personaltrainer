@@ -124,11 +124,13 @@
 <body>
     <div class="container">
         <h1>Treino Personalizado</h1>
+        <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
+<img width="1060" height="300" alt="Captura de tela 2025-09-26 231920" src="https://github.com/user-attachments/assets/22064b45-441a-4cfa-a653-7bf30dfadffa" />
         <p style="text-align: center; color: #6c757d;">Preencha os dados abaixo e clique no botão para ser direcionado ao WhatsApp do Personal Trainer e agendar seu atendimento presencial, ou on-line!
         </p>
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
-<img width="1060" height="300" alt="Captura de tela 2025-09-26 231920" src="https://github.com/user-attachments/assets/22064b45-441a-4cfa-a653-7bf30dfadffa" />
+<!-- COD LOGO ESTAVA AQUI -->
 
 
         
