@@ -130,7 +130,7 @@
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
 
 <img src="![marcos da jana1](https://github.com/user-attachments/assets/abd55e31-2a80-4d5e-b512-41d2ab25367e)
-" alt="Descrição da imagem" width="300" height="300">
+"alt="Descrição da imagem" width="800" height="900">
 
 
 
