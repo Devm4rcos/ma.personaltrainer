@@ -129,7 +129,8 @@
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
 
-<img width="385" height="400" alt="Captura de tela 2025-09-26 222026" src="https://github.com/user-attachments/assets/8060d1a1-1dcd-43f9-9eca-8dcd1b216dc7" />
+<img src="![marcos da jana1](https://github.com/user-attachments/assets/abd55e31-2a80-4d5e-b512-41d2ab25367e)
+" alt="Descrição da imagem" width="300" height="300">
 
 
 
