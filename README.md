@@ -128,8 +128,7 @@
         </p>
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
-<img width="1060" height="587" alt="Captura de tela 2025-09-26 231920" src="https://github.com/user-attachments/assets/22064b45-441a-4cfa-a653-7bf30dfadffa" />
-" alt="MA Personal Trainer" width="300" height="200">
+<img width="1060" height="450" alt="Captura de tela 2025-09-26 231920" src="https://github.com/user-attachments/assets/22064b45-441a-4cfa-a653-7bf30dfadffa" />
 
 
         
