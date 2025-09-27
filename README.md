@@ -128,8 +128,8 @@
         </p>
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
-<img src="<img width="385" height="587" alt="Captura de tela 2025-09-26 222026" src="https://github.com/user-attachments/assets/8060d1a1-1dcd-43f9-9eca-8dcd1b216dc7" />
-" alt="LOGO MARCA">
+
+<img width="385" height="400" alt="Captura de tela 2025-09-26 222026" src="https://github.com/user-attachments/assets/8060d1a1-1dcd-43f9-9eca-8dcd1b216dc7" />
 
 
 
