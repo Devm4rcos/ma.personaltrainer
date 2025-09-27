@@ -129,8 +129,6 @@
 
 <!-- TENTAR ADICIONAR MINHA LOGO MARCA AQUI -->
 
-<img src="![logo](https://github.com/user-attachments/assets/fc67d0b6-bb22-4d5b-b247-aa5e4a772542) " width="300" height="200">
-
 
 
         
